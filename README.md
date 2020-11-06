@@ -1,4 +1,4 @@
-# simple_interest_calculator
+# Simple Interest Calculator
 
 A Flutter Simple Interest Calculator App
 
